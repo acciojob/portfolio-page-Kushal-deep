@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:grey
+}
+
+.main img{
+	height:400px;
+	width:300px;
+	display:flex;
+	
+}
+.main h1{
+color:red;
+}
+
+.main a{
+	text-align:center;
+}
+
+#skills{
+	background-color:white
+}
+#projects ul li{
+	list-style:none;
+
+	
+}
